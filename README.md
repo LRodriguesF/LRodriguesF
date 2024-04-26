@@ -1,6 +1,6 @@
 - 👋  Olá,  eu sou Lisiê Rodrigues
 - 👀  Atuo como analista de testes de software (QA)
-- 🌱  Atualmente estou me dedicando a aprender automação de testes
+- 🌱  Atualmente estou me dedicando a automação de testes
 
 <div align="center">
   <a href="https://github.com/LRodriguesF">
