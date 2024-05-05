@@ -1,6 +1,5 @@
-[Lisie Rodrigues]
 **Sobre Mim**
-Olá! 👋 Sou [Lisie], uma entusiasta da tecnologia apaixonada por desenvolvimento de software, automação de testes e tudo relacionado ao mundo da programação. Sou motivada por desafios e estou sempre em busca de aprender e aprimorar minhas habilidades.
+Olá! 👋 Sou Lisie, uma entusiasta da tecnologia apaixonada por desenvolvimento de software, automação de testes e tudo relacionado ao mundo da programação. Sou motivada por desafios e estou sempre em busca de aprender e aprimorar minhas habilidades.
 
 **Habilidades**
 💻 Linguagens de Programação: JavaScript, SQL
@@ -25,7 +24,7 @@ Olá! 👋 Sou [Lisie], uma entusiasta da tecnologia apaixonada por desenvolvime
 💼 LinkedIn: www.linkedin.com/in/lisiê-fabiane
 
 **Outras Informações**
-👨‍💻 Estou aberto a oportunidades de trabalho e colaborações interessantes.
+👨‍💻 Estou aberta a oportunidades de trabalho e colaborações interessantes.
 📚 Estou sempre estudando e explorando novas tecnologias para expandir meu conhecimento.
 🌱 Estou interessado em mentorar e ajudar outras pessoas a ingressarem na área de tecnologia.
 
